@@ -1,7 +1,7 @@
 ﻿using System;
 namespace SWENG421_Lab08
 {
-    public class TV
+    public class TV : TV_IF
     {
         protected int price;
         protected String type;
@@ -18,24 +18,24 @@ namespace SWENG421_Lab08
             this.type = t;
         }
 
-        int getPrice()
+        public int getPrice()
         {
             return price;
         }
 
-        void setPrice(int price)
+        public void setPrice(int price)
         {
             this.price = price;
         }
 
-        String getType()
+        public String getType()
         {
             return type;
         }
 
-        public void setType(String brand)
+        public void setType(String type)
         {
-            this.type = brand;
+            this.type = type;
         }
 
         public String getInfo()

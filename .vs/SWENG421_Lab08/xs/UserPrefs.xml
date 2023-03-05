@@ -1,4 +1,25 @@
 ﻿<Properties StartupConfiguration="{C9A28610-7347-4180-BEF3-1A1463C274AD}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Retailer.cs">
+    <Files>
+      <File FileName="Program.cs" Line="30" Column="1" />
+      <File FileName="TV.cs" Line="43" Column="57" />
+      <File FileName="Retailer.cs" Line="24" Column="8" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SWENG421_Lab08" expanded="True">
+            <Node name="SWENG421_Lab08" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.SWENG421__Lab08 FirstBuild="True" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.SWENG421__Lab08 PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>
