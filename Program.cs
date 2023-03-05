@@ -2,8 +2,9 @@
 
 public class Program
 {
-    public static void main(String[] args)
+    public static void Main(String[] args)
     {
+        Retailer retailer = new Retailer();
         Vizio vizio = new Vizio();
         Sony sony = new Sony();
 
@@ -20,5 +21,9 @@ public class Program
         // set power consumption for the smart TV's
         Vizio_Smart_TV.setPowerUsage(6.35);
         Sony_Smart_TV.setPowerUsage(5.15);
+
+        TV tv = retailer.replenishTV(320);
+
+        Console.WriteLine(tv.getInfo());
     }
 }

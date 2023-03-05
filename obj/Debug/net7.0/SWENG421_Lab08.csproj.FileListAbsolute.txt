@@ -1,0 +1,15 @@
+/Users/owenpowell/Documents/SWENG 421/Labs/Lab 8/SWENG421_Lab08/obj/Debug/net7.0/SWENG421_Lab08.csproj.AssemblyReference.cache
+/Users/owenpowell/Documents/SWENG 421/Labs/Lab 8/SWENG421_Lab08/obj/Debug/net7.0/SWENG421_Lab08.GeneratedMSBuildEditorConfig.editorconfig
+/Users/owenpowell/Documents/SWENG 421/Labs/Lab 8/SWENG421_Lab08/obj/Debug/net7.0/SWENG421_Lab08.AssemblyInfoInputs.cache
+/Users/owenpowell/Documents/SWENG 421/Labs/Lab 8/SWENG421_Lab08/obj/Debug/net7.0/SWENG421_Lab08.AssemblyInfo.cs
+/Users/owenpowell/Documents/SWENG 421/Labs/Lab 8/SWENG421_Lab08/obj/Debug/net7.0/SWENG421_Lab08.csproj.CoreCompileInputs.cache
+/Users/owenpowell/Documents/SWENG 421/Labs/Lab 8/SWENG421_Lab08/bin/Debug/net7.0/SWENG421_Lab08
+/Users/owenpowell/Documents/SWENG 421/Labs/Lab 8/SWENG421_Lab08/bin/Debug/net7.0/SWENG421_Lab08.deps.json
+/Users/owenpowell/Documents/SWENG 421/Labs/Lab 8/SWENG421_Lab08/bin/Debug/net7.0/SWENG421_Lab08.runtimeconfig.json
+/Users/owenpowell/Documents/SWENG 421/Labs/Lab 8/SWENG421_Lab08/bin/Debug/net7.0/SWENG421_Lab08.dll
+/Users/owenpowell/Documents/SWENG 421/Labs/Lab 8/SWENG421_Lab08/bin/Debug/net7.0/SWENG421_Lab08.pdb
+/Users/owenpowell/Documents/SWENG 421/Labs/Lab 8/SWENG421_Lab08/obj/Debug/net7.0/SWENG421_Lab08.dll
+/Users/owenpowell/Documents/SWENG 421/Labs/Lab 8/SWENG421_Lab08/obj/Debug/net7.0/refint/SWENG421_Lab08.dll
+/Users/owenpowell/Documents/SWENG 421/Labs/Lab 8/SWENG421_Lab08/obj/Debug/net7.0/SWENG421_Lab08.pdb
+/Users/owenpowell/Documents/SWENG 421/Labs/Lab 8/SWENG421_Lab08/obj/Debug/net7.0/SWENG421_Lab08.genruntimeconfig.cache
+/Users/owenpowell/Documents/SWENG 421/Labs/Lab 8/SWENG421_Lab08/obj/Debug/net7.0/ref/SWENG421_Lab08.dll

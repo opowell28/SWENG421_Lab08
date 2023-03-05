@@ -3,11 +3,8 @@ namespace SWENG421_Lab08
 {
 	public class Retailer
 	{
-        public int budget;
-
         public Retailer()
 		{
-			
 		}
 
 		public TV replenishTV(int budget)
