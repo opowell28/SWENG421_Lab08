@@ -12,6 +12,12 @@ namespace SWENG421_Lab08
             this.type = "TV";
         }
 
+        public TV(int p, String t)
+        {
+            this.price = p;
+            this.type = t;
+        }
+
         int getPrice()
         {
             return price;
@@ -34,7 +40,7 @@ namespace SWENG421_Lab08
 
         public String getInfo()
         {
-            return "Brand: " + type + " Price: " + price;
+            return "Type: " + type + " Price: " + price;
         }
     }
 }

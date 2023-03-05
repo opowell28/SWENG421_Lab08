@@ -12,6 +12,12 @@ namespace SWENG421_Lab08
 			type = "Smart TV";
 		}
 
+		public Smart_TV(int p, String t)
+		{
+			this.price = p;
+			this.type = t;
+		}
+
 		public void setPowerUsage(double pow)
 		{
 			this.powerUsage = pow;

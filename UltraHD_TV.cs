@@ -8,6 +8,12 @@ namespace SWENG421_Lab08
 			price = 400;
 			type = "Ultra HD TV";
 		}
+
+		public UltraHD_TV(int p, String t)
+		{
+			this.price = p;
+			this.type = t;
+		}
 	}
 }
 
