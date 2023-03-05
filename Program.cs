@@ -1,3 +1,7 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
-
+﻿public class Question13
+{
+    public static void main(String[] args)
+    {
+        
+    }
+}
